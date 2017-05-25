@@ -15,7 +15,7 @@ This is my Project for PHP/SQL course at laurea. Goal was to create simple php i
 
 6. Now the databse is set, next check what port is xampp using: Apache -> config -> Apache(httpd.conf)
 
-7. Now to start using the app go to 127.0.0.1:<your port number>/<foldername>/index.php
+7. Now to start using the app go to 127.0.0.1:*your port number*/*foldername*/index.php
 
 8. Start using the App!
 
