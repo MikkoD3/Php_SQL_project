@@ -1,0 +1,1 @@
+INSERT INTO `users` (`id`, `username`, `email`, `password`) VALUES (NULL, 'TEST USer', 'test@test.fi', 'TESTING')
