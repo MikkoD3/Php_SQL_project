@@ -17,6 +17,8 @@ This is my Project for PHP/SQL course at laurea. Goal was to create simple php i
 
 7. Now to start using the app go to 127.0.0.1:*your port number*/*foldername*/index.php
   Note: foldername is the folder which you place in xampp/htdocs
+  
+  EDIT:: NAme the folder IMG_App because else the links wont work, sorry about this, will fix later
 
 8. Start using the App!
 
