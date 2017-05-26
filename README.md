@@ -1,10 +1,11 @@
 # Php_SQL_project
 This is my Project for PHP/SQL course at laurea. Goal was to create simple php image gallery.
 
-#Installation
+# Important, name the folder in htdocs IMG_App
 
 
-#Important, name the folder in htdocs IMG_App
+# Installation
+
 1. Install xampp
 
 2. Copy the php_SQL_project folder to xampp/htdocs
